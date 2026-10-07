@@ -34,7 +34,7 @@ export default function Home() {
           <p className="intro">Акжан Максатовна — контент-продюсер и стратег. Превращаю личные бренды в медиа, которым доверяют и у которых покупают.</p>
           <div className="hero-actions">
             <button className="button coral" onClick={() => scrollTo("work")}>Смотреть кейсы <b>↓</b></button>
-            <a className="text-link" href="https://wa.me/" target="_blank" rel="noreferrer">Написать в WhatsApp <span>↗</span></a>
+            <a className="text-link" href="https://wa.me/77472888370" target="_blank" rel="noreferrer">Написать в WhatsApp <span>↗</span></a>
           </div>
         </div>
         <div className="hero-visual">
@@ -68,7 +68,7 @@ export default function Home() {
         <div className="client-showcase"><div><p className="eyebrow">КЛИЕНТЫ</p><h3>Эксперты, которым<br/>важен результат.</h3><a href="https://www.instagram.com/akzhan.mx/" target="_blank" rel="noreferrer">Больше проектов в Instagram ↗</a></div><img src="/kp-images/p03-00.png" alt="Клиенты Акжан" /></div>
       </section>
 
-      <section className="contact" id="contact"><p className="eyebrow">03 / НАЧНЁМ?</p><h2>Ваш следующий<br/>миллион — <em>видео.</em></h2><p>Расскажите о задаче — соберём стратегию, которая станет следующим громким кейсом.</p><div><a className="button light" href="https://wa.me/" target="_blank" rel="noreferrer">WhatsApp <b>↗</b></a><a className="button outline" href="https://www.instagram.com/akzhan.mx/" target="_blank" rel="noreferrer">Instagram <b>↗</b></a></div></section>
+      <section className="contact" id="contact"><p className="eyebrow">03 / НАЧНЁМ?</p><h2>Ваш следующий<br/>миллион — <em>видео.</em></h2><p>Расскажите о задаче — соберём стратегию, которая станет следующим громким кейсом.</p><div><a className="button light" href="https://wa.me/77472888370" target="_blank" rel="noreferrer">WhatsApp <b>↗</b></a><a className="button outline" href="https://www.instagram.com/akzhan.mx/" target="_blank" rel="noreferrer">Instagram <b>↗</b></a></div></section>
       <footer><span>© 2026 AKZHAN.MX</span><a href="https://www.instagram.com/akzhan.mx/" target="_blank" rel="noreferrer">@akzhan.mx ↗</a><button onClick={() => scrollTo("top")}>НАВЕРХ ↑</button></footer>
     </main>
   );
